@@ -1,0 +1,4 @@
+[submodule "dectalk"]
+	path = dectalk
+	url = https://github.com/dectalk/dectalk.git
+	branch = develop
